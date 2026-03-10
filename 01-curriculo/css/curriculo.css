@@ -23,12 +23,15 @@ body {
 	text-decoration: none;
 }
 
+.texto-centralizado {
+	text-align: center;
+}
+
 h1 {
 	font-size: 50px;
 	margin-top: 15px;
-
-	text-align: center;
 }
+
 
 h2 {
 	background-color: #4e7c2d; 
